@@ -1,6 +1,8 @@
 # TimeOrbit ⏰🌌
 ### *A Premium, High-Performance Neon-Glassmorphic Alarm & Sleep Suite for Android & iOS*
 
+[![Download APK](https://img.shields.io/badge/Download-Android%20APK-00F5D4?style=for-the-badge&logo=android&logoColor=black)](https://github.com/bilash-biswas/clean-architecture-alarm-riverpod/raw/main/build/app/outputs/flutter-apk/app-release.apk)
+
 **TimeOrbit** is a production-ready, feature-rich alarm and productivity suite built with Flutter. It combines a stunning neon-glassmorphic UI with robust, low-level OS integrations to guarantee wake-up reliability. 
 
 Designed following **Clean Architecture** principles and powered by **Riverpod** for reactive state management, the codebase showcases advanced native platform configurations, precise background task execution, local offline persistence, and rigorous unit testing.
